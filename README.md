@@ -1,3 +1,3 @@
-# playing-doubles
+# Playing-doubles
 
 Цель разработки: изучить модули js, классы
